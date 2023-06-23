@@ -54,7 +54,7 @@
   display: inline;
 }
 .area{
-  display: flex;
+  display: block;
 }
 
 #text{
